@@ -1,5 +1,5 @@
 # Speedometer
-Creates a tkinter speedometer with flexible range which is easy to update
+Creates a tkinter speedometer with flexible range which is easy to update.
 
 ### Step 1
 1. Import the ```speedometer.py``` module in your project.
